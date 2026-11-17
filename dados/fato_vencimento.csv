@@ -1,0 +1,163 @@
+id_veiculo,documento,data_vencimento
+V001,Licenciamento,2027-10-27
+V001,Seguro,2027-01-12
+V001,Inspeção veicular,2026-12-11
+V002,Licenciamento,2027-07-26
+V002,Seguro,2026-11-07
+V002,Inspeção veicular,2027-07-22
+V003,Licenciamento,2027-10-25
+V003,Seguro,2027-01-19
+V003,Inspeção veicular,2027-06-09
+V004,Licenciamento,2027-01-14
+V004,Seguro,2027-10-23
+V004,Inspeção veicular,2026-12-10
+V005,Licenciamento,2026-12-12
+V005,Seguro,2027-07-22
+V005,Inspeção veicular,2026-11-13
+V006,Licenciamento,2027-10-23
+V006,Seguro,2026-11-15
+V006,Inspeção veicular,2026-11-15
+V007,Licenciamento,2027-07-29
+V007,Seguro,2027-02-18
+V007,Inspeção veicular,2027-10-27
+V008,Licenciamento,2026-12-11
+V008,Seguro,2027-02-16
+V008,Inspeção veicular,2027-07-29
+V009,Licenciamento,2027-09-14
+V009,Seguro,2026-11-29
+V009,Inspeção veicular,2027-03-29
+V010,Licenciamento,2027-07-23
+V010,Seguro,2027-10-27
+V010,Inspeção veicular,2027-09-14
+V011,Licenciamento,2026-11-14
+V011,Seguro,2026-12-11
+V011,Inspeção veicular,2027-01-04
+V012,Licenciamento,2027-02-16
+V012,Seguro,2026-11-22
+V012,Inspeção veicular,2026-11-22
+V013,Licenciamento,2027-03-30
+V013,Seguro,2027-09-17
+V013,Inspeção veicular,2027-09-17
+V014,Licenciamento,2026-12-13
+V014,Seguro,2027-07-22
+V014,Inspeção veicular,2027-07-27
+V015,Licenciamento,2027-03-28
+V015,Seguro,2026-11-27
+V015,Inspeção veicular,2027-02-13
+V016,Licenciamento,2027-01-14
+V016,Seguro,2026-11-27
+V016,Inspeção veicular,2027-09-15
+V017,Licenciamento,2027-01-19
+V017,Seguro,2026-11-07
+V017,Inspeção veicular,2027-01-17
+V018,Licenciamento,2026-11-26
+V018,Seguro,2027-07-29
+V018,Inspeção veicular,2026-11-14
+V019,Licenciamento,2027-10-19
+V019,Seguro,2026-11-24
+V019,Inspeção veicular,2027-03-28
+V020,Licenciamento,2026-11-24
+V020,Seguro,2026-12-30
+V020,Inspeção veicular,2026-11-08
+V021,Licenciamento,2027-07-22
+V021,Seguro,2026-12-03
+V021,Inspeção veicular,2026-11-29
+V022,Licenciamento,2026-11-03
+V022,Seguro,2027-01-20
+V022,Inspeção veicular,2027-01-18
+V023,Licenciamento,2027-10-20
+V023,Seguro,2026-11-23
+V023,Inspeção veicular,2027-10-21
+V024,Licenciamento,2026-12-17
+V024,Seguro,2026-12-11
+V024,Inspeção veicular,2026-11-17
+V025,Licenciamento,2026-11-09
+V025,Seguro,2027-10-27
+V025,Inspeção veicular,2027-03-28
+V026,Licenciamento,2026-11-08
+V026,Seguro,2027-07-22
+V026,Inspeção veicular,2026-11-09
+V027,Licenciamento,2027-03-24
+V027,Seguro,2026-11-21
+V027,Inspeção veicular,2026-11-30
+V028,Licenciamento,2027-09-12
+V028,Seguro,2027-03-23
+V028,Inspeção veicular,2027-03-26
+V029,Licenciamento,2026-12-19
+V029,Seguro,2027-07-28
+V029,Inspeção veicular,2027-07-29
+V030,Licenciamento,2027-09-12
+V030,Seguro,2027-09-16
+V030,Inspeção veicular,2026-11-07
+V031,Licenciamento,2026-11-11
+V031,Seguro,2027-03-23
+V031,Inspeção veicular,2026-12-30
+V032,Licenciamento,2026-11-27
+V032,Seguro,2026-12-11
+V032,Inspeção veicular,2026-11-06
+V033,Licenciamento,2027-09-12
+V033,Seguro,2026-12-03
+V033,Inspeção veicular,2026-11-07
+V034,Licenciamento,2026-11-17
+V034,Seguro,2027-02-13
+V034,Inspeção veicular,2027-01-20
+V035,Licenciamento,2026-11-16
+V035,Seguro,2027-09-17
+V035,Inspeção veicular,2026-12-30
+V036,Licenciamento,2026-11-05
+V036,Seguro,2027-01-05
+V036,Inspeção veicular,2027-06-05
+V037,Licenciamento,2027-01-01
+V037,Seguro,2027-03-27
+V037,Inspeção veicular,2026-12-04
+V038,Licenciamento,2026-12-09
+V038,Seguro,2027-01-20
+V038,Inspeção veicular,2027-03-31
+V039,Licenciamento,2026-11-14
+V039,Seguro,2027-09-12
+V039,Inspeção veicular,2027-06-07
+V040,Licenciamento,2026-11-01
+V040,Seguro,2026-12-06
+V040,Inspeção veicular,2027-06-09
+V041,Licenciamento,2026-12-30
+V041,Seguro,2027-01-12
+V041,Inspeção veicular,2027-10-23
+V042,Licenciamento,2027-02-15
+V042,Seguro,2027-01-02
+V042,Inspeção veicular,2027-01-13
+V043,Licenciamento,2026-11-29
+V043,Seguro,2027-01-20
+V043,Inspeção veicular,2027-09-10
+V044,Licenciamento,2027-06-09
+V044,Seguro,2027-06-08
+V044,Inspeção veicular,2027-06-05
+V045,Licenciamento,2026-12-13
+V045,Seguro,2026-11-13
+V045,Inspeção veicular,2026-11-14
+V046,Licenciamento,2027-01-14
+V046,Seguro,2027-02-11
+V046,Inspeção veicular,2027-03-24
+V047,Licenciamento,2026-11-15
+V047,Seguro,2026-11-09
+V047,Inspeção veicular,2027-07-23
+V048,Licenciamento,2027-01-12
+V048,Seguro,2027-03-26
+V048,Inspeção veicular,2027-09-15
+V049,Licenciamento,2026-12-30
+V049,Seguro,2027-09-17
+V049,Inspeção veicular,2027-09-13
+V050,Licenciamento,2026-11-01
+V050,Seguro,2026-11-21
+V050,Inspeção veicular,2027-06-01
+V051,Licenciamento,2027-10-21
+V051,Seguro,2026-12-13
+V051,Inspeção veicular,2026-12-09
+V052,Licenciamento,2027-03-27
+V052,Seguro,2027-10-20
+V052,Inspeção veicular,2027-10-24
+V053,Licenciamento,2027-01-05
+V053,Seguro,2027-01-01
+V053,Inspeção veicular,2026-12-28
+V054,Licenciamento,2027-10-23
+V054,Seguro,2027-07-22
+V054,Inspeção veicular,2027-07-25

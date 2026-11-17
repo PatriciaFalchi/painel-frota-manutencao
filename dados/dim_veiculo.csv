@@ -1,0 +1,55 @@
+id_veiculo,placa,tipo,modelo,ano_fabricacao,area,combustivel,km_inicial
+V001,LTT2D86,Utilitário leve,Fiat Fiorino,2013,Segurança,Flex,232898
+V002,USV8D10,Utilitário leve,Fiat Fiorino,2021,Segurança,Flex,60161
+V003,RAS6D60,Utilitário leve,Fiat Fiorino,2013,Logística,Flex,178136
+V004,NTZ2F21,Utilitário leve,Fiat Fiorino,2017,Segurança,Flex,204050
+V005,EZV5A57,Utilitário leve,Fiat Fiorino,2019,Logística,Flex,171867
+V006,VUS2G74,Utilitário leve,Fiat Fiorino,2018,Segurança,Flex,185720
+V007,JPV8J76,Utilitário leve,Fiat Fiorino,2020,Manutenção de via,Flex,195868
+V008,BTD7H28,Utilitário leve,Fiat Fiorino,2014,Administrativo,Flex,141011
+V009,ZRS9E81,Utilitário leve,Fiat Fiorino,2013,Administrativo,Flex,262571
+V010,ZTS7G35,Utilitário leve,Fiat Fiorino,2020,Logística,Flex,115526
+V011,ZXR9H56,Utilitário leve,Fiat Fiorino,2014,Estações,Flex,149186
+V012,TSP9A47,Utilitário leve,Fiat Fiorino,2019,Logística,Flex,170971
+V013,RTJ8C64,Utilitário leve,Fiat Fiorino,2013,Administrativo,Flex,103854
+V014,MDG7C67,Utilitário leve,Fiat Fiorino,2019,Manutenção de via,Flex,75161
+V015,UCX4D25,Van,Renault Master,2021,Segurança,Diesel,236094
+V016,ZME1F95,Van,Renault Master,2016,Segurança,Diesel,249815
+V017,UHS3J47,Van,Renault Master,2014,Manutenção de via,Diesel,256257
+V018,VKT7G29,Van,Renault Master,2014,Segurança,Diesel,179567
+V019,NCB6F13,Van,Renault Master,2013,Manutenção de via,Diesel,172920
+V020,LDS8C29,Van,Renault Master,2019,Segurança,Diesel,164667
+V021,XHC9G14,Van,Renault Master,2019,Estações,Diesel,62858
+V022,RZG8A26,Van,Renault Master,2012,Segurança,Diesel,228489
+V023,FFN5G78,Van,Renault Master,2014,Administrativo,Diesel,181449
+V024,FJR8G46,Caminhonete,Toyota Hilux,2017,Administrativo,Flex,148403
+V025,DTT5B37,Caminhonete,Toyota Hilux,2019,Estações,Flex,75410
+V026,LPU3A55,Caminhonete,Toyota Hilux,2022,Estações,Flex,180325
+V027,UGD5J82,Caminhonete,Toyota Hilux,2024,Estações,Diesel,98253
+V028,UED5B65,Caminhonete,Toyota Hilux,2022,Estações,Flex,212449
+V029,FZZ2J50,Caminhonete,Toyota Hilux,2017,Logística,Diesel,79754
+V030,FJJ2A62,Caminhonete,Toyota Hilux,2017,Logística,Flex,67044
+V031,AKD2J83,Caminhonete,Toyota Hilux,2015,Logística,Flex,279408
+V032,ZXB7F87,Caminhonete,Toyota Hilux,2022,Estações,Diesel,154286
+V033,DMT5G47,Caminhonete,Toyota Hilux,2022,Logística,Flex,225777
+V034,KLK2E63,Caminhão leve,VW Delivery,2012,Logística,Diesel,235123
+V035,UBD3B25,Caminhão leve,VW Delivery,2015,Manutenção de via,Diesel,211992
+V036,ZKA7C55,Caminhão leve,VW Delivery,2022,Administrativo,Diesel,131876
+V037,HEF9A94,Caminhão leve,VW Delivery,2018,Segurança,Diesel,123839
+V038,AAJ9H63,Caminhão leve,VW Delivery,2015,Logística,Diesel,111348
+V039,CFU1J43,Caminhão leve,VW Delivery,2021,Logística,Diesel,53747
+V040,ZHS1D96,Caminhão leve,VW Delivery,2012,Segurança,Diesel,288347
+V041,MHU5F35,Ônibus de apoio,Mercedes OF-1519,2018,Logística,Diesel,177394
+V042,SVK4C90,Ônibus de apoio,Mercedes OF-1519,2020,Administrativo,Diesel,172102
+V043,TPB3B48,Ônibus de apoio,Mercedes OF-1519,2017,Logística,Diesel,99165
+V044,AUG5A60,Ônibus de apoio,Mercedes OF-1519,2013,Administrativo,Diesel,220368
+V045,NLU5E15,Ônibus de apoio,Mercedes OF-1519,2014,Segurança,Diesel,123522
+V046,UKM3G34,Ônibus de apoio,Mercedes OF-1519,2016,Manutenção de via,Diesel,179795
+V047,UFT1C50,Carro de passeio,Chevrolet Onix,2024,Segurança,Flex,58944
+V048,TZA6B57,Carro de passeio,Chevrolet Onix,2013,Logística,Flex,143673
+V049,XHE2F72,Carro de passeio,Chevrolet Onix,2021,Manutenção de via,Flex,229480
+V050,XKZ2F70,Carro de passeio,Chevrolet Onix,2016,Administrativo,Flex,100703
+V051,MRV6B18,Carro de passeio,Chevrolet Onix,2015,Manutenção de via,Flex,204712
+V052,HFL7J81,Carro de passeio,Chevrolet Onix,2016,Logística,Flex,153592
+V053,SNL3D69,Carro de passeio,Chevrolet Onix,2023,Estações,Flex,207659
+V054,MPV7D29,Carro de passeio,Chevrolet Onix,2024,Administrativo,Flex,215780
